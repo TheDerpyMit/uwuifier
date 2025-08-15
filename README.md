@@ -35,6 +35,9 @@ Choose from multiple hotkey combinations:
 - `Ctrl + Alt + W`
 - `Alt + Shift + U`
 - `Alt + Shift + W`
+- `Alt + U`
+- `Ctrl + U`
+- `F9, F10, F11, F12 `
 
 ### 🦹‍♀️ Troll Mode (Use Responsibly!)
 **⚠️ WARNING: Ultimate Chaos Mode - Use Only for Pranks!**
@@ -251,4 +254,5 @@ uwuifier is intended for entertainment purposes and harmless pranks among friend
   <b>Made with 💕 and lots of uwu energy!</b><br>
   <i>Transform your text, spread the kawaii! 🌸</i>
 </div>
+
 
