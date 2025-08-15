@@ -53,9 +53,10 @@ When activated, troll mode unleashes complete mayhem:
 ## 🚀 Installation
 
 ### Option 1: Download Executable (Recommended)
-1. Download the latest `uwuifier.exe` from the releases page
-2. Run the executable - no installation required!
-3. All assets (audio, images) are embedded in the .exe file
+1. Download the latest `uwuifierv1.zip` from the releases page
+2. Unzip it to a folder and open the folder
+3. Run the executable - no installation required!
+4. All assets (audio, images) are embedded in the .exe file
 
 ### Option 2: Run from Source
 
@@ -250,3 +251,4 @@ uwuifier is intended for entertainment purposes and harmless pranks among friend
   <b>Made with 💕 and lots of uwu energy!</b><br>
   <i>Transform your text, spread the kawaii! 🌸</i>
 </div>
+
