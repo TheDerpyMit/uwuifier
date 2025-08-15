@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "hotkey": "f12",
+  "overlay_position": "top-right",
+  "overlay_duration": 2.0,
+  "smiley": true,
+  "yu": true,
+  "stutter": true,
+  "nouwu": false,
+  "first_run": false
+}
